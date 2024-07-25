@@ -2,9 +2,8 @@
 
 A Flutter widget that displays a customizable table with headers and rows of data. It supports various customization options for styling and layout. The AppTable widget provides a variety of customization options, including customizable header and data rows, configurable title with styles, support for different text alignments and cell alignments, customizable table dimensions and padding, scrollable table content, and customizable border widths and colors.
 
-<br/>
 <p align="left">
-  <img src="https://github.com/elrizwiraswara/app_table/raw/main/1.png" alt="Image 1" height="500">
+  <img src="https://github.com/elrizwiraswara/app_table/raw/main/1.png" alt="Image 1" height="600">
 </p>
 
 ## Installation
