@@ -106,7 +106,7 @@ class _MyAppState extends State<MyApp> {
 ```
 
 ## Example
-Check out the [example](example) directory for a complete sample app demonstrating the use of the app_image package.
+Check out the [example](example) directory for a complete sample app demonstrating the use of the `app_table` package.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

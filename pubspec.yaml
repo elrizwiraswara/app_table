@@ -1,6 +1,6 @@
 name: app_table
 description: A Flutter widget that displays a customizable table with headers and rows of data. It supports various customization options for styling and layout.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/elrizwiraswara/app_table
 
 environment:
