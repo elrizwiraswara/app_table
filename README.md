@@ -12,7 +12,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  app_table: ^0.0.1
+  app_table: ^0.0.2
 ```
 
 Then run `flutter pub get` to install the package.
