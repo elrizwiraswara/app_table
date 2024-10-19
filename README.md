@@ -12,7 +12,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  app_table: ^0.0.2
+  app_table: ^0.0.3
 ```
 
 Then run `flutter pub get` to install the package.
@@ -20,7 +20,7 @@ Then run `flutter pub get` to install the package.
 ## Usage
 ### Basic Usage
 
-```
+```dart
 import 'package:app_table/app_table.dart';
 import 'package:flutter/material.dart';
 
